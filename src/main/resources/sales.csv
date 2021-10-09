@@ -1,0 +1,6 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Product ID,Category,Product Name,Quantity,Discount,Profit
+1,CA-2016-152156,08.11.16,11.11.16,Second Class,CG-12520,Claire Gute,FUR-BO-10001798,Furniture,Bush Somerset Collection Bookcase,2,0,41.9136
+3,CA-2016-138688,12.06.16,16.06.16,Second Class,DV-13045,Darrin Van Huff,OFF-LA-10000240,Office Supplies,Self-Adhesive Address Labels for Typewriters by Universal,2,0,6.8714
+4,US-2015-108966,11.10.15,18.10.15,Standard Class,SO-20335,Sean O'Donnell,FUR-TA-10000577,Furniture,Bretford CR4500 Series Slim Rectangular Table,5,0.45,-383.031
+9,CA-2015-117415,27.12.15,31.12.15,Standard Class,SN-20710,Steve Nguyen,OFF-EN-10002986,Office Supplies,"#10-4 1/8"" x, 9 1/2"" Premium Diagonal Seam Envelopes",9,0.2,35.415
+11,CA-2014-115812,09.06.14,14.06.14,Standard Class,BH-11710,Brosina Hoffman,FUR-TA-10001539,Furniture,Chromcraft Rectangular Conference Tables,9,0.2,85.3092
